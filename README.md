@@ -4,6 +4,10 @@
 Gesture Hand Painter is an AI-powered virtual drawing tool that allows users to paint on a screen using hand gestures detected through a webcam. It utilizes OpenCV and MediaPipe to track hand movements, enabling color selection, brush strokes, and an eraser mode when the palm is fully open. This project is ideal for interactive applications, AI-based gesture control, and digital art experiments.
 
 ## Features
+
+https://github.com/user-attachments/assets/79863ab9-730d-46f7-9e0a-64131283f1e8
+
+
 - **Hand Gesture Detection**: Uses MediaPipe to track hand landmarks.
 - **Drawing with Index Finger**: Move your index finger to draw.
 - **Color Selection**: Change colors by touching the index finger and thumb.
